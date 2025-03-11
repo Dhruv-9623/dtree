@@ -19,4 +19,4 @@ This project was developed as part of a systems programming course and demonstra
 To compile dtree, use the following command:
 
 ```bash
-gcc dtree.c -o dtree
+gcc  -o dtree dtree.c
